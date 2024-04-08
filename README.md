@@ -18,4 +18,4 @@ HOW I LEARNED THIS:
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Refrenced in W3Schools  
 
 NOTE:  
-‎ ‎ ‎ ‎ This site is not my own design. This is the project in HTML course by FreeCodeCamp.org by Dave Gray. He showed the photos of the this site and i replicate it into a code. He also showed the code last but i did'nt seen it. All the codes are written by me.
+‎ ‎ ‎ ‎ This site is not my own design. This is the project in HTML course by FreeCodeCamp.org by Dave Gray. He showed the photos of the this site and I re-created it. 
